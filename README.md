@@ -4,6 +4,8 @@
 
 MaxMiller@chapman.edu
 
+A program that takes a text file filled with numbers and runs those numbers through 5 sorting algorithms, timing each one.
+
 
 ## Commands to run:
 ```bash
